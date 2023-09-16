@@ -7,7 +7,8 @@ function App() {
     {id:1,name:"Nook"},
     {id:2,name:"Kwang"},
     {id:3,name:"News"},
-    {id:4,name:"Guess"}
+    {id:4,name:"Guess"},
+    {id:5,name:"Songkarn"}
   ]);
 
   const [show,setShow] = useState(true); 
